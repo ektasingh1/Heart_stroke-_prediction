@@ -1,4 +1,4 @@
-## Heart_stroke-_prediction
+## Heart_stroke_prediction
 ## Project Objective :-
 This project aims to build a predictive machine learning model that can identify individuals at risk of stroke based on their demographic and health-related features. By detecting high-risk individuals early, appropriate preventive measures can be taken to reduce the occurence and impact of stroke.
 
